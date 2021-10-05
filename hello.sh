@@ -1,6 +1,6 @@
 # This is a comment 
 echo Hello #<- this is also a comment 
-echo World Testing
+echo World
 
 msg="Hello World"
 
